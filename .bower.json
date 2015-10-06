@@ -1,0 +1,33 @@
+{
+  "name": "angularUtils",
+  "version": "0.0.0",
+  "homepage": "https://github.com/allanlb/pagination",
+  "authors": [
+    "Michael Bromley <michael@michaelbromley.co.uk>"
+  ],
+  "description": "Pagination directive",
+  "main": "src/pagination.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.13",
+    "angular": "~1.2.24"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.24"
+  },
+  "_cacheHeaders": {
+    "Content-Type": "application/zip",
+    "Content-Disposition": "attachment; filename=pagination.zip"
+  },
+  "_source": "https://github.com/allanlb/pagination/archive/master.zip",
+  "_target": "*",
+  "_originalSource": "https://github.com/allanlb/pagination/archive/master.zip"
+}
