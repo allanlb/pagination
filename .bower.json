@@ -1,12 +1,12 @@
 {
-  "name": "angularUtils",
+  "name": "pagination",
   "version": "0.0.0",
   "homepage": "https://github.com/allanlb/pagination",
   "authors": [
     "Michael Bromley <michael@michaelbromley.co.uk>"
   ],
   "description": "Pagination directive",
-  "main": "src/pagination.js",
+  "main": "dirPagination.js",
   "license": "MIT",
   "private": true,
   "ignore": [
